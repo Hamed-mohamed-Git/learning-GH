@@ -15,6 +15,7 @@ struct ContentView: View {
             List(model.quoteArray) { r in
                 NavigationLink(destination: quotesView(quote: r)) {
                     ZStack{
+                        Text("hello github")
                         Image(r.image).resizable(resizingMode: .stretch).scaledToFill().cornerRadius(20)
                         VStack(spacing: 10.0){
                             Text(r.quotes[0])
