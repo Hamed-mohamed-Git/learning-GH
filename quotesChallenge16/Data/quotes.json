@@ -1,0 +1,51 @@
+[
+{
+    "person": "Abraham Lincoln",
+    "imagePerson": "abrahim",
+    "image": "quote1",
+    "quotes": [
+    "“Folks are usually about as happy as they make their minds up to be.“",
+    "“Whatever you are, be a good one.“",
+    "“Do I not destroy my enemies when I make them my friends?“",
+    "“My Best Friend is a person who will give me a book I have not read.“",
+    "“When I do good, I feel good. When I do bad, I feel bad. That's my religion.“"
+    ]
+},
+{
+    "person": "Steve Jobs",
+    "imagePerson": "steve1",
+    "image": "quote2",
+    "quotes": [
+    "“Innovation distinguishes between a leader and a follower.“",
+    "“Don’t let the noise of others’ opinions drown out your own inner voice.“",
+    "“Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.“",
+    "“Stay hungry. Stay foolish.“",
+    "“We’re here to put a dent in the universe. Otherwise why else even be here?“"
+    ]
+
+},
+{
+    "person": "Albert Einstein",
+    "imagePerson": "Albert",
+    "image":"quote3",
+    "quotes": [
+    "“Few are those who see with their own eyes and feel with their own hearts.“",
+    "“Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.“",
+    "“Unthinking respect for authority is the greatest enemy of truth.“",
+    "“Try not to become a man of success, but rather try to become a man of value.“",
+    "“Look deep into nature, and then you will understand everything better.“"
+    ]
+},
+{
+    "person": "Elon Musk",
+    "imagePerson": "elon",
+    "image": "quote4",
+    "quotes": [
+    "“Failure is an option here. If things are not failing, you are not innovating enough.“",
+    "“When something is important enough, you do it even if the odds are not in your favour.“",
+    "“Persistence is very important. You should not give up unless you are forced to give up.“",
+    "“I say something, and then it usually happens. Maybe not on schedule, but it usually happens.“",
+    "“I don’t spend time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems.“"
+    ]
+}
+]
