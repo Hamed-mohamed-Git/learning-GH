@@ -29,6 +29,7 @@ struct ContentView: View {
                                 .font(.title2)
                                 .fontWeight(.bold)
                                 .foregroundColor(Color.white)
+                            Text("anothor person")
                         }
                         
                     }
